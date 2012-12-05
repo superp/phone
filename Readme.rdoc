@@ -3,11 +3,7 @@ Parsing, validating and creating phone numbers
 
 == Install
 You can install the phone library as a gem
-    gem sources -a http://gemcutter.org
-    gem install phone
-
-Or as a Rails plugin
-    script/plugin install git://github.com/carr/phone.git
+    gem 'superp-phone', '~> 1.1', :require => "phone"
 
 == Updates in v 1.0
 
