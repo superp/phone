@@ -1,14 +1,14 @@
 Gem::Specification.new do |s|
-  s.name    = 'phone'
+  s.name    = 'superp-phone'
   s.version = '1.1'
-  s.date    = '2012-02-27'
+  s.date    = '2012-12-05'
 
   s.summary = "Phone number parsing, validation and formatting"
-  s.description = "Phone number parsing, validation and formatting."
+  s.description = "Release for https://github.com/wmoxam/phone fork"
 
   s.authors  = ['Tomislav Car', 'Todd Eichel', 'Don Morrison', 'Wesley Moxam']
   s.email    = ['tomislav@infinum.hr', 'todd@toddeichel.com', 'elskwid@gmail.com', 'wesley.moxam@gmail.com']
-  s.homepage = 'http://github.com/carr/phone'
+  s.homepage = 'http://github.com/superp/phone'
 
   s.has_rdoc = true
   s.rdoc_options = ['--main', 'Readme.rdoc']
