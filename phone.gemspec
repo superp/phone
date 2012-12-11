@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name    = 'superp-phone'
-  s.version = '1.1'
-  s.date    = '2012-12-05'
+  s.version = '1.2'
+  s.date    = '2012-12-11'
 
   s.summary = "Phone number parsing, validation and formatting"
   s.description = "Release for https://github.com/wmoxam/phone fork"
@@ -45,6 +45,7 @@ Gem::Specification.new do |s|
       test/countries/ua_test.rb
       test/countries/us_test.rb
       test/countries/za_test.rb
+      test/countries/ru_test.rb
     )
 
     s.test_files = %w(
@@ -69,5 +70,6 @@ Gem::Specification.new do |s|
       test/countries/ua_test.rb
       test/countries/us_test.rb
       test/countries/za_test.rb
+      test/countries/ru_test.rb
     )
 end
