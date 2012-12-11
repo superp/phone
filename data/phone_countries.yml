@@ -1045,6 +1045,9 @@
   :char_3_code: "RU"
   :name: Russian Federation
   :international_dialing_prefix: "810"
+  :area_code: "\\d{3}"
+  :number_format: "\\d{10}"
+  :local_number_format: "\\d{7}"
 "98": 
   :country_code: "98"
   :national_dialing_prefix: "0"
