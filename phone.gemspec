@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name    = 'superp-phone'
-  s.version = '1.2'
-  s.date    = '2012-12-11'
+  s.version = '1.2.1'
+  s.date    = '2012-12-13'
 
   s.summary = "Phone number parsing, validation and formatting"
   s.description = "Release for https://github.com/wmoxam/phone fork"
